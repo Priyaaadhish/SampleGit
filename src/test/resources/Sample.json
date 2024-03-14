@@ -1,0 +1,17 @@
+{
+	"name": "priyanka",
+	"age": 33,
+	"status": "True",
+	"address": 
+                {
+                 "city": "chennai",
+	             "state": "Tamil nadu",
+	             "pincode": 627719
+                 },
+         "courses":
+                  [
+                  "java",
+                  "selenium",
+                  "maven"
+                  ]
+}
